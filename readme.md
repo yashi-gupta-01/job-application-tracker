@@ -29,7 +29,7 @@ To run this application locally, follow these steps:
 
 3. Run the Streamlit application:
     ```bash
-        streamlit run app.py
+    streamlit run app.py
 
 ## Requirements
 - Python 3.7 or later
@@ -37,10 +37,8 @@ To run this application locally, follow these steps:
 - pandas
 - altair
 
-## Install the required Python packages using:
-    ```bash
-        pip install streamlit pandas altair
-    ```
+## Install the required Python packages using:  
+  ```pip install streamlit pandas altair```
 
 ## Usage
 
@@ -56,8 +54,8 @@ To run this application locally, follow these steps:
 
 ## Contributing
 
-Feel free to open issues or submit pull requests if you have suggestions or improvements. Please follow the contribution guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Feel free to open issues or submit pull requests if you have suggestions or improvements.
 
 ## Contact
 
-For any questions or feedback, please reach out to [your email address].
+For any questions or feedback, please reach out to [fagun.raithatha28@gmail.com].
